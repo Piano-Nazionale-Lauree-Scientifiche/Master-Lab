@@ -1,2 +1,2 @@
 # Master-Lab
-Videogame
+Videogame made by PowerUp team, University of Parma and University of Bologna
